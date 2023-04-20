@@ -54,44 +54,38 @@ with heavy use.]{.mark}\
 ![](./images/media/image6.jpeg){width="4.89132217847769in"
 height="4.527777777777778in"}
 
-Upgrading the CPU to a quad core ([**i7--3632QM** ]{.mark}), replacing
-your heatsink with the following:
+Upgrading the CPU to a quad core (**i7--3632QM** ), replacing your
+heatsink with the following:
 
-[**04W3269 / 0B41088 / 04W3270 **are the dedicated GPU assemblies that
+**04W3269 / 0B41088 / 04W3270 **are the dedicated GPU assemblies that
 contain the extra copper pipe for absorbing additional heat from the
 dedicated GPU. Regardless of whether or not you actually have a dGPU,
 you want one of these if you plan to go above 35W CPUs, or even then you
-may want to consider this swap for the additional heat
-dissipation.]{.mark}
+may want to consider this swap for the additional heat dissipation.
 
 # Display
 
-**[Upgrade the Screen to 1920\*1080 14.0\'\' by Heider Jeffer.]{.mark}
-Require:\
-**
+Upgrade the Screen to 1920\*1080 14.0\'\' by Heider Jeffer:
 
-[AU Optronics B140HAN01.3 Display model MATTE IPS]{.mark}
+-   AU Optronics B140HAN01.3 Display model MATTE IPS
+
+-   LCD controller board kit LVDS cable 1920X1080 IPS 1080P FHD Screen
+    monitor full hd for thinkpad T430 lenovo T420
 
 [\
 \
-]{.mark}![](./images/media/image7.jpeg){width="3.1319444444444446in"
-height="3.037584208223972in"}[\
+]{.mark}![](./images/media/image7.jpeg){width="5.01211832895888in"
+height="4.861111111111111in"}\
 \
-]{.mark}
-
-[LCD controller board kit LVDS cable 1920X1080 IPS 1080P FHD Screen
-monitor full hd for thinkpad T430 lenovo T420\
-\
-]{.mark}![](./images/media/image8.jpeg){width="1.3398436132983378in"
+![](./images/media/image8.jpeg){width="1.3398436132983378in"
 height="2.3819444444444446in"}![](./images/media/image9.jpeg){width="4.147762467191601in"
 height="2.3331167979002623in"}
 
 ## Results 1920 x 1080 
 
-![](./images/media/image10.jpeg){width="6.5in" height="3.65625in"}
-
-~~\
-~~![](./images/media/image11.jpeg){width="6.5in" height="3.65625in"}
+![](./images/media/image10.jpeg){width="6.5in"
+height="3.65625in"}![](./images/media/image11.jpeg){width="6.5in"
+height="3.65625in"}
 
 # Keyboard Swap
 
@@ -114,8 +108,7 @@ height="4.197569991251093in"}
 
 # Touchpad "Replacement"
 
-![](./images/media/image17.jpeg){width="3.297029746281715in"
-height="3.297029746281715in"}
+![](./images/media/image17.jpeg){width="5.0in" height="5.0in"}
 
 # Slice Battery
 
@@ -143,9 +136,6 @@ RAM]{.underline}](https://www.amazon.com/gp/product/B00NTQ0GOM/ref=as_li_tl?ie=U
 
 # T430 Accessories
 
-![](./images/media/image22.png){width="6.115441819772529in"
-height="3.8541666666666665in"}
-
 1.  1 TB Nvme Samsung 970 EVO Plus (USB C to USB 3.1 Gen2 ).
 
 2.  Mini Displayport 4-in-1 Adapter (Thunderbolt Compatible), HDMI / DVI
@@ -157,3 +147,8 @@ height="3.8541666666666665in"}
 
 4.  CSL - HDMI to DVI adapter - DVI-D 24 and 1 Male connector on HDMI
     socket - Full HD - 1080p - PS3 video.
+
+# 
+
+![](./images/media/image22.png){width="6.98592738407699in"
+height="4.402777777777778in"}
