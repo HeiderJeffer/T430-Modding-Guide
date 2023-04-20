@@ -10,13 +10,15 @@ my fully decked out and customized T430.
 
 ![](./images/media/image1.jpeg){width="6.5in" height="3.65625in"}
 
+![](./images/media/image2.jpeg){width="6.5in" height="3.65625in"}
+
 I've opened up, disassembled, and reassembled the T430 so many times it
 makes my head spin thinking about it. So here we go, the definitive T430
 modding guide.
 
 # Why T430?
 
-![](./images/media/image2.jpeg){width="6.5in" height="5.1875in"}
+![](./images/media/image3.jpeg){width="6.5in" height="5.1875in"}
 
 I love the machine. I've discovered the joys of modding, flashing, and
 overclocking the T430 and it has become hands down the best laptop on
@@ -24,7 +26,7 @@ the planet for me (alongside the T530/W530 which is slightly bigger but
 can be modded just as much and has better thermal overhead for things
 like the XM, and supports a slightly better GPU).
 
-![](./images/media/image3.jpeg){width="6.5in"
+![](./images/media/image4.jpeg){width="6.5in"
 height="3.660416666666667in"}
 
 Nearly all mods here can also be applied to the T530/W530, so if you're
@@ -32,9 +34,9 @@ interested in modding those machines feel free to follow this guide.
 
 # CPU
 
-![](./images/media/image4.jpeg){width="3.50879593175853in"
+![](./images/media/image5.jpeg){width="3.50879593175853in"
 height="2.6315977690288714in"}
-![](./images/media/image5.jpeg){width="2.798921697287839in"
+![](./images/media/image6.jpeg){width="2.798921697287839in"
 height="2.6909722222222223in"}
 
 The T430 support the following Quad Core CPU
@@ -51,7 +53,7 @@ with heavy use.]{.mark}\
 
 # Heatsink / Fan
 
-![](./images/media/image6.jpeg){width="4.89132217847769in"
+![](./images/media/image7.jpeg){width="4.89132217847769in"
 height="4.527777777777778in"}
 
 Upgrading the CPU to a quad core (**i7--3632QM** ), replacing your
@@ -74,48 +76,48 @@ Upgrade the Screen to 1920\*1080 14.0\'\' by Heider Jeffer:
 
 [\
 \
-]{.mark}![](./images/media/image7.jpeg){width="5.01211832895888in"
+]{.mark}![](./images/media/image8.jpeg){width="5.01211832895888in"
 height="4.861111111111111in"}\
 \
-![](./images/media/image8.jpeg){width="1.3398436132983378in"
-height="2.3819444444444446in"}![](./images/media/image9.jpeg){width="4.147762467191601in"
+![](./images/media/image9.jpeg){width="1.3398436132983378in"
+height="2.3819444444444446in"}![](./images/media/image10.jpeg){width="4.147762467191601in"
 height="2.3331167979002623in"}
 
 ## Results 1920 x 1080 
 
-![](./images/media/image10.jpeg){width="6.5in"
-height="3.65625in"}![](./images/media/image11.jpeg){width="6.5in"
+![](./images/media/image11.jpeg){width="6.5in"
+height="3.65625in"}![](./images/media/image12.jpeg){width="6.5in"
 height="3.65625in"}
 
 # Keyboard Swap
 
 ## Backlit Keyboard
 
-![](./images/media/image12.jpeg){width="6.5in" height="3.65625in"}
-
 ![](./images/media/image13.jpeg){width="6.5in" height="3.65625in"}
 
 ![](./images/media/image14.jpeg){width="6.5in" height="3.65625in"}
 
+![](./images/media/image15.jpeg){width="6.5in" height="3.65625in"}
+
 # 170W Adapter
 
-![](./images/media/image15.jpeg){width="6.5in" height="3.65625in"}
+![](./images/media/image16.jpeg){width="6.5in" height="3.65625in"}
 
 # SATA Bay
 
-![](./images/media/image16.jpeg){width="4.361111111111111in"
+![](./images/media/image17.jpeg){width="4.361111111111111in"
 height="4.197569991251093in"}
 
 # Touchpad "Replacement"
 
-![](./images/media/image17.jpeg){width="5.0in" height="5.0in"}
+![](./images/media/image18.jpeg){width="5.0in" height="5.0in"}
 
 # Slice Battery
 
-![](./images/media/image18.jpeg){width="6.5in" height="3.65625in"}
+![](./images/media/image19.jpeg){width="6.5in" height="3.65625in"}
 
-![](./images/media/image19.jpeg){width="5.277227690288714in"
-height="2.9684405074365703in"}![](./images/media/image20.jpeg){width="2.283416447944007in"
+![](./images/media/image20.jpeg){width="5.277227690288714in"
+height="2.9684405074365703in"}![](./images/media/image21.jpeg){width="2.283416447944007in"
 height="4.059406167979002in"}
 
 One of the less known things about the xx10 through xx30 lines of
@@ -128,7 +130,7 @@ whopping 94Wh with a standard 9-cell so you can use T430 with a whopping
 
 # RAM, Battery, Storage
 
-![](./images/media/image21.jpeg){width="6.061695100612424in"
+![](./images/media/image22.jpeg){width="6.061695100612424in"
 height="3.138888888888889in"}
 
 The T430 has two RAM slots, which support up to [[16GB of 2133MHz DDR3L
@@ -150,5 +152,5 @@ RAM]{.underline}](https://www.amazon.com/gp/product/B00NTQ0GOM/ref=as_li_tl?ie=U
 
 # 
 
-![](./images/media/image22.png){width="6.98592738407699in"
+![](./images/media/image23.png){width="6.98592738407699in"
 height="4.402777777777778in"}
