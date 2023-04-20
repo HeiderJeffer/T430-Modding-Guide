@@ -1,3 +1,7 @@
+# T430 Modding Guide
+
+by Heider Jeffer
+
 I've been getting requests to create a modification guide for the T430
 for over a year now, so this guide is long overdue. I've modded and
 created probably about a dozen T430 ThinkPads in the last years at my
