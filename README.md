@@ -9,9 +9,7 @@ master studies in computer science and my mobile powerhouse is currently
 my fully decked out and customized T430.
 
 <img src="./images/media/image1.jpeg"
-style="width:6.5in;height:3.65625in" />
-
-<img src="./images/media/image2.jpeg"
+style="width:6.5in;height:3.65625in" /><img src="./images/media/image2.jpeg"
 style="width:6.5in;height:3.65625in" />
 
 I’ve opened up, disassembled, and reassembled the T430 so many times it
@@ -122,7 +120,7 @@ style="width:4.36111in;height:4.19757in" />
 # Slice Battery
 
 <img src="./images/media/image19.jpeg"
-style="width:6.5in;height:3.65625in" />
+style="width:4.97917in;height:2.80078in" />
 
 <img src="./images/media/image20.jpeg"
 style="width:5.27723in;height:2.96844in" /><img src="./images/media/image21.jpeg"
