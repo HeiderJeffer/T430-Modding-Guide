@@ -12,8 +12,8 @@ Davinci Resolve, OBS, GIMP..etc) and my mobile powerhouse is currently
 my fully decked out and customized T430.
 
 <img src="./images/media/image1.jpeg"
-style="width:6.5in;height:3.65625in" /><img src="./images/media/image2.jpeg"
-style="width:6.5in;height:3.65625in" />
+/><img src="./images/media/image2.jpeg"
+/>
 
 I’ve opened up, disassembled, and reassembled the T430 so many times it
 makes my head spin thinking about it. So here we go, the definitive T430
