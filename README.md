@@ -1,11 +1,14 @@
 # T430 Modding Guide
 
-by Heider Jeffer
+by Heider Jeffer \| Free University of Bozen-Bolzano – Faculty of
+Computer Science \| Italy
 
 I’ve been getting requests to create a modification guide for the T430
 for over a year now, so this guide is long overdue. I’ve modded and
 created probably about a dozen T430 ThinkPads in the last years at my
-master studies in computer science and my mobile powerhouse is currently
+master studies in computer science and Ph.D. apps (e.g. Android Studio,
+Java, Robotic Webots..etc) , content creations (e.g. video editing,
+Davinci Resolve, OBS, GIMP..etc) and my mobile powerhouse is currently
 my fully decked out and customized T430.
 
 <img src="./images/media/image1.jpeg"
