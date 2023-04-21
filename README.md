@@ -42,19 +42,33 @@ style="width:2.79892in;height:2.69097in" />
 
 The T430 support the following Quad Core CPU
 
-<span class="mark">**i7–3632QM** (35W/4C/8T/2.2GH/3.2GHt) is the second
-of two quad core chips at 35 watts.</span> <span class="mark">Despite
-the significant decrease in base speed, this chip vastly outperforms the
-i7–3540M in most use cases. If you don’t plan to overclock and want to
-stick with a 35W CPU, this will serve you well. Note that despite the
-same TDP, you will get more heat and hit the 35W spec more often simply
-due to having the extra cores to power, but the power usage will still
-generally average 35W over time with heavy use.</span>  
-**Overclockable: **No.
+**i7–3632QM** (35W/4C/8T/2.2GH/3.2GHt) is the second of two quad core
+chips at 35 watts. Despite the significant decrease in base speed, this
+chip vastly outperforms the i7–3540M in most use cases. If you don’t
+plan to overclock and want to stick with a 35W CPU, this will serve you
+well. Note that despite the same TDP, you will get more heat and hit the
+35W spec more often simply due to having the extra cores to power, but
+the power usage will still generally average 35W over time with heavy
+use.  
+Overclockable: No.
+
+# T430 Motherboard
+
+<img src="./images/media/image7.jpeg"
+style="width:6.5in;height:3.66042in" />
+
+<img src="./images/media/image8.jpeg"
+style="width:6.5in;height:3.66042in" />
+
+<img src="./images/media/image9.jpeg"
+style="width:6.5in;height:3.66042in" />
+
+<img src="./images/media/image10.jpeg"
+style="width:6.5in;height:3.66042in" />
 
 # Heatsink / Fan
 
-<img src="./images/media/image7.jpeg"
+<img src="./images/media/image11.jpeg"
 style="width:4.89132in;height:4.52778in" />
 
 Upgrading the CPU to a quad core (**i7–3632QM** ), replacing your
@@ -75,55 +89,60 @@ Upgrade the Screen to 1920\*1080 14.0'' by Heider Jeffer:
 - LCD controller board kit LVDS cable 1920X1080 IPS 1080P FHD Screen
   monitor full hd for thinkpad T430 lenovo T420
 
-<span class="mark">  
+<img src="./images/media/image12.jpeg"
+style="width:6.5in;height:3.65625in" />  
   
-</span><img src="./images/media/image8.jpeg"
-style="width:5.01212in;height:4.86111in" />  
   
-<img src="./images/media/image9.jpeg"
-style="width:1.33984in;height:2.38194in" /><img src="./images/media/image10.jpeg"
+<img src="./images/media/image13.jpeg"
+style="width:1.33984in;height:2.38194in" /><img src="./images/media/image14.jpeg"
 style="width:4.14776in;height:2.33312in" />
 
-## Results 1920 x 1080 
+## Output Results 1920 x 1080 
 
-<img src="./images/media/image11.jpeg"
-style="width:6.5in;height:3.65625in" /><img src="./images/media/image12.jpeg"
+<img src="./images/media/image15.jpeg"
+style="width:6.5in;height:3.65625in" /><img src="./images/media/image16.jpeg"
+style="width:6.5in;height:3.65625in" />
+
+<img src="./images/media/image17.jpeg"
+style="width:6.5in;height:3.65625in" />
+
+<img src="./images/media/image18.jpeg"
 style="width:6.5in;height:3.65625in" />
 
 # Keyboard Swap
 
 ## Backlit Keyboard
 
-<img src="./images/media/image13.jpeg"
+<img src="./images/media/image19.jpeg"
 style="width:6.5in;height:3.65625in" />
 
-<img src="./images/media/image14.jpeg"
+<img src="./images/media/image20.jpeg"
 style="width:6.5in;height:3.65625in" />
 
-<img src="./images/media/image15.jpeg"
+<img src="./images/media/image21.jpeg"
 style="width:6.5in;height:3.65625in" />
 
 # 170W Adapter
 
-<img src="./images/media/image16.jpeg"
+<img src="./images/media/image22.jpeg"
 style="width:6.5in;height:3.65625in" />
 
 # SATA Bay
 
-<img src="./images/media/image17.jpeg"
+<img src="./images/media/image23.jpeg"
 style="width:4.36111in;height:4.19757in" />
 
 # Touchpad “Replacement”
 
-<img src="./images/media/image18.jpeg" style="width:5in;height:5in" />
+<img src="./images/media/image24.jpeg" style="width:5in;height:5in" />
 
 # Slice Battery
 
-<img src="./images/media/image19.jpeg"
+<img src="./images/media/image25.jpeg"
 style="width:4.97917in;height:2.80078in" />
 
-<img src="./images/media/image20.jpeg"
-style="width:5.27723in;height:2.96844in" /><img src="./images/media/image21.jpeg"
+<img src="./images/media/image26.jpeg"
+style="width:5.27723in;height:2.96844in" /><img src="./images/media/image27.jpeg"
 style="width:2.28342in;height:4.05941in" />
 
 One of the less known things about the xx10 through xx30 lines of
@@ -134,9 +153,9 @@ These slice batteries attach to the bottom of your ThinkPad and add a
 whopping 94Wh with a standard 9-cell so you can use T430 with a whopping
 188Wh of battery capacity, the highest of any ThinkPad in existence.
 
-# RAM, Battery, Storage
+# RAM up to 16GB 
 
-<img src="./images/media/image22.jpeg"
+<img src="./images/media/image28.jpeg"
 style="width:6.0617in;height:3.13889in" />
 
 The T430 has two RAM slots, which support up to [<u>16GB of 2133MHz
@@ -159,5 +178,5 @@ RAM</u>](https://www.amazon.com/gp/product/B00NTQ0GOM/ref=as_li_tl?ie=UTF8&tag=n
 
 # 
 
-<img src="./images/media/image23.png"
+<img src="./images/media/image29.png"
 style="width:6.98593in;height:4.40278in" />
