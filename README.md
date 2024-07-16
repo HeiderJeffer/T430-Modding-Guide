@@ -8,38 +8,30 @@
 by Heider Jeffer \| Free University of Bozen-Bolzano – Faculty of
 Computer Science \| Italy
 
-I’ve been getting requests to create a modification guide for the T430
-for over a year now, so this guide is long overdue. I’ve modded and
-created probably about a dozen T430 ThinkPads in the last years at my
-master studies in computer science and Ph.D. apps (e.g. Android Studio,
-Java, Robotic Webots..etc) , content creations (e.g. video editing,
-Davinci Resolve, OBS, GIMP..etc) and my mobile powerhouse is currently
-my fully decked out and customized T430.
+
+I've been receiving requests to create a modification guide for the T430 for over a year now, making this guide long overdue. During my master's studies in computer science and Ph.D. applications, I've modified and customized about a dozen T430 ThinkPads. I use them extensively for software development (e.g., Android Studio, Java, Robotic Webots), content creation (e.g., video editing, DaVinci Resolve, OBS, GIMP), and my current mobile powerhouse is my fully customized T430.
+
 
 <img src="./images/media/image1.jpeg"
 /><img src="./images/media/image2.jpeg"
 />
 
-I’ve opened up, disassembled, and reassembled the T430 so many times it
-makes my head spin thinking about it. So here we go, the definitive T430
-modding guide.
+I've opened up, disassembled, and reassembled the T430 more times than I can count. Now, I'm excited to present the definitive T430 modding guide.
 
 # Why T430?
 
 <img src="./images/media/image3.jpeg"
 style="width:6.5in;height:5.1875in" />
 
-I love the machine. I’ve discovered the joys of modding, flashing, and
-overclocking the T430 and it has become hands down the best laptop on
-the planet for me (alongside the T530/W530 which is slightly bigger but
-can be modded just as much and has better thermal overhead for things
-like the XM, and supports a slightly better GPU).
+I love the T430. I've discovered the joys of modding, flashing, and overclocking it, making it hands down the best laptop for me. The T530/W530, though slightly larger, offers similar modding potential with better thermal overhead for tasks like XM and supports a slightly better GPU.
+
 
 <img src="./images/media/image4.jpeg"
 style="width:6.5in;height:3.66042in" />
 
-Nearly all mods here can also be applied to the T530/W530, so if you’re
-interested in modding those machines feel free to follow this guide.
+
+Almost all the mods in this guide can also be applied to the T530/W530. If you're interested in modding those models, feel free to follow along.
+
 
 # CPU
 
@@ -50,15 +42,12 @@ style="width:2.79892in;height:2.69097in" />
 
 The T430 support the following Quad Core CPU
 
-**i7–3632QM** (35W/4C/8T/2.2GH/3.2GHt) is the second of two quad core
-chips at 35 watts. Despite the significant decrease in base speed, this
-chip vastly outperforms the i7–3540M in most use cases. If you don’t
-plan to overclock and want to stick with a 35W CPU, this will serve you
-well. Note that despite the same TDP, you will get more heat and hit the
-35W spec more often simply due to having the extra cores to power, but
-the power usage will still generally average 35W over time with heavy
-use.  
-Overclockable: No.
+**i7–3632QM** 
+
+The (35W/4C/8T/2.2GHz/3.2GHz) is the second of two quad-core chips at 35 watts. Despite its lower base speed, this chip significantly outperforms the i7-3540M in most use cases. If you don't plan to overclock and prefer to stick with a 35W CPU, this is an excellent choice. Keep in mind that even with the same TDP, the additional cores will generate more heat and reach the 35W limit more frequently. However, power usage will still average 35W over extended periods of heavy use.
+
+
+Overclockable: No.
 
 # T430 Motherboard
 
@@ -82,11 +71,7 @@ style="width:4.89132in;height:4.52778in" />
 Upgrading the CPU to a quad core (**i7–3632QM** ), replacing your
 heatsink with the following:
 
-**04W3269 / 0B41088 / 04W3270 **are the dedicated GPU assemblies that
-contain the extra copper pipe for absorbing additional heat from the
-dedicated GPU. Regardless of whether or not you actually have a dGPU,
-you want one of these if you plan to go above 35W CPUs, or even then you
-may want to consider this swap for the additional heat dissipation.
+**04W3269 / 0B41088 / 04W3270 ** are the dedicated GPU assemblies that include an extra copper pipe for better heat absorption from the GPU. Even if you don't have a dedicated GPU, you should consider getting one of these assemblies if you plan to use CPUs above 35W. This swap can significantly improve heat dissipation.
 
 # Display
 
